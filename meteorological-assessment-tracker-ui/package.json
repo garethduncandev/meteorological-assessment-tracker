@@ -21,7 +21,7 @@
     "@angular/platform-browser-dynamic": "~9.0.6",
     "@angular/router": "~9.0.6",
     "@types/papaparse": "^5.0.3",
-    "dexie": "^3.0.1",
+    "dexie": "^3.2.2",
     "moment": "2.29.2",
     "papaparse": "^5.2.0",
     "rxjs": "~6.5.4",
